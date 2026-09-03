@@ -1,0 +1,6 @@
+{
+  "name": "GestorIA",
+  "description": "Plataforma inteligente de automatización contable, fiscal y laboral para despachos profesionales y gestorías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
